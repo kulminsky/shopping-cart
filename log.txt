@@ -1,0 +1,125 @@
+2024-05-04 19:43:46 [INFO] Product list: 
+2024-05-04 19:43:46 [INFO] USBKEY
+2024-05-04 19:43:46 [INFO] TSHIRT
+2024-05-04 19:43:46 [INFO] muG
+2024-05-04 19:43:46 [INFO] ---------------
+
+2024-05-04 19:43:46 [INFO] Scanned item: 
+2024-05-04 19:43:46 [INFO] {"command":"done"}
+2024-05-04 20:15:26 [INFO] Product list: 
+2024-05-04 20:15:26 [INFO] USBKEY
+2024-05-04 20:15:26 [INFO] TSHIRT
+2024-05-04 20:15:26 [INFO] muG
+2024-05-04 20:15:26 [INFO] ---------------
+
+2024-05-04 20:15:26 [INFO] Scanned item: 
+2024-05-04 20:15:32 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:34 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:35 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:37 [INFO] {"command":"checkout"}
+2024-05-04 20:15:38 [INFO] {"value":"8.0"}
+2024-05-04 20:15:38 [INFO] Scanned item: 
+2024-05-04 20:15:42 [INFO] {"itemCode":"TSHIRT"}
+2024-05-04 20:15:44 [INFO] {"itemCode":"muG"}
+2024-05-04 20:15:45 [ERROR] {"error":"Unknown item code: asdasd"}
+2024-05-04 20:15:47 [INFO] {"command":"checkout"}
+2024-05-04 20:15:48 [INFO] {"value":"25.0"}
+2024-05-04 20:15:48 [INFO] Scanned item: 
+2024-05-04 20:15:51 [INFO] {"command":"done"}
+2024-05-04 19:37:27 [INFO] Product list: 
+2024-05-04 19:37:27 [INFO] USBKEY
+2024-05-04 19:37:27 [INFO] TSHIRT
+2024-05-04 19:37:27 [INFO] muG
+2024-05-04 19:37:27 [INFO] ---------------
+
+2024-05-04 19:37:27 [INFO] Scanned item: 
+2024-05-04 19:37:44 [INFO] {"itemCode":"TSHIRT"}
+2024-05-04 19:37:54 [INFO] {"command":"checkout"}
+2024-05-04 19:37:55 [INFO] {"value":"21.0"}
+2024-05-04 19:37:55 [INFO] Scanned item: 
+2024-05-04 19:38:10 [INFO] {"itemCode":"TSHIRT"}
+2024-05-04 19:38:17 [INFO] {"command":"checkout"}
+2024-05-04 19:38:18 [INFO] {"value":"21.0"}
+2024-05-04 19:38:18 [INFO] Scanned item: 
+2024-05-04 19:41:27 [INFO] Product list: 
+2024-05-04 19:41:27 [INFO] USBKEY
+2024-05-04 19:41:27 [INFO] TSHIRT
+2024-05-04 19:41:27 [INFO] muG
+2024-05-04 19:41:27 [INFO] ---------------
+
+2024-05-04 19:41:27 [INFO] Scanned item: 
+2024-05-04 19:41:47 [INFO] {"itemCode":"TSHIRT"}
+2024-05-04 19:41:52 [INFO] {"command":"checkout"}
+2024-05-04 19:41:53 [INFO] {"value":"21.0"}
+2024-05-04 19:41:53 [INFO] Scanned item: Processed command.
+2024-05-04 19:44:34 [INFO] Product list: 
+2024-05-04 19:44:34 [INFO] USBKEY
+2024-05-04 19:44:34 [INFO] TSHIRT
+2024-05-04 19:44:34 [INFO] muG
+2024-05-04 19:44:34 [INFO] ---------------
+
+2024-05-04 19:44:34 [INFO] Scanned item: 
+2024-05-04 19:44:37 [INFO] {"command":"done"}
+2024-05-04 19:45:04 [INFO] Product list: 
+2024-05-04 19:45:04 [INFO] USBKEY
+2024-05-04 19:45:04 [INFO] TSHIRT
+2024-05-04 19:45:04 [INFO] muG
+2024-05-04 19:45:04 [INFO] ---------------
+
+2024-05-04 19:45:04 [INFO] Scanned item: 
+2024-05-04 19:45:09 [INFO] {"itemCode":"muG"}
+2024-05-04 19:45:26 [INFO] {"itemCode":"TSHIRT"}
+2024-05-04 19:45:31 [INFO] {"command":"checkout"}
+2024-05-04 19:45:32 [INFO] {"value":"25.0"}
+2024-05-04 19:45:32 [INFO] Scanned item: 
+2024-05-04 19:45:53 [ERROR] {"error":"Unknown item code: asfddsf"}
+2024-05-04 19:46:03 [INFO] {"command":"done"}
+2024-05-05 10:06:24 [INFO] Product list: 
+2024-05-05 10:06:24 [INFO] USBKEY
+2024-05-05 10:06:24 [INFO] TSHIRT
+2024-05-05 10:06:24 [INFO] muG
+2024-05-05 10:06:24 [INFO] ---------------
+
+2024-05-05 10:06:24 [INFO] Scanned item: 
+2024-05-05 10:06:37 [INFO] {"itemCode":"TSHIRT"}
+2024-05-05 10:06:46 [INFO] {"command":"checkout"}
+2024-05-05 10:06:47 [INFO] {"value":"21.0"}
+2024-05-05 10:06:47 [INFO] Scanned item: 
+2024-05-05 10:07:41 [ERROR] {"error":"Unknown item code: mUG"}
+2024-05-05 10:07:49 [INFO] {"itemCode":"muG"}
+2024-05-05 10:07:55 [INFO] {"command":"checkout"}
+2024-05-05 10:07:56 [INFO] {"value":"4.0"}
+2024-05-05 10:07:56 [INFO] Scanned item: 
+2024-05-05 10:13:42 [INFO] {"itemCode":"muG"}
+2024-05-05 10:13:48 [INFO] {"itemCode":"muG"}
+2024-05-05 10:13:51 [INFO] {"command":"checkout"}
+2024-05-05 10:13:52 [INFO] {"value":"4.0"}
+2024-05-05 10:13:52 [INFO] Scanned item: 
+2024-05-05 10:14:21 [INFO] {"itemCode":"TSHIRT"}
+2024-05-05 10:14:31 [INFO] {"itemCode":"muG"}
+2024-05-05 10:14:36 [INFO] {"itemCode":"TSHIRT"}
+2024-05-05 10:14:40 [INFO] {"command":"checkout"}
+2024-05-05 10:14:41 [INFO] {"value":"46.0"}
+2024-05-05 10:14:41 [INFO] Scanned item: 
+2024-05-06 10:27:03 [INFO] Scanned item: 
+2024-05-06 10:28:40 [INFO] {"itemCode":"TSHIRT"}
+2024-05-06 10:28:45 [INFO] {"command":"checkout"}
+2024-05-06 10:28:46 [INFO] {"value":"21.0"}
+2024-05-06 10:28:46 [INFO] Scanned item: 
+2024-05-06 10:28:51 [INFO] {"itemCode":"TSHIRT"}
+2024-05-06 10:28:59 [INFO] {"itemCode":"TSHIRT"}
+2024-05-06 10:29:03 [INFO] {"command":"checkout"}
+2024-05-06 10:29:04 [INFO] {"value":"42.0"}
+2024-05-06 10:29:04 [INFO] Scanned item: 
+2024-05-06 10:29:12 [INFO] {"itemCode":"TSHIRT"}
+2024-05-06 10:29:15 [INFO] {"itemCode":"TSHIRT"}
+2024-05-06 10:29:18 [INFO] {"itemCode":"TSHIRT"}
+2024-05-06 10:29:21 [INFO] {"command":"checkout"}
+2024-05-06 10:29:22 [INFO] {"value":"56.7"}
+2024-05-06 10:29:22 [INFO] Scanned item: 
+2024-05-06 12:05:45 [INFO] Scanned item: 
+2024-05-06 12:05:53 [INFO] {"itemCode":"TSHIRT"}
+2024-05-06 12:05:56 [INFO] {"command":"checkout"}
+2024-05-06 12:05:57 [INFO] {"value":"21.0"}
+2024-05-06 12:05:57 [INFO] Scanned item: 
+2024-05-06 12:06:01 [INFO] {"command":"done"}
